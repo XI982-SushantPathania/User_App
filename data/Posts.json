@@ -1,0 +1,40 @@
+[
+    {
+        "id": "1",
+        "name": "sushant",
+        "phone": "4562155",
+        "Address": "jkjkayudg"
+    },
+    {
+        "id": "2",
+        "name": "yuvraj",
+        "phone": "5895",
+        "Address": "ksidhsoa"
+    },
+    {
+        "id": "3",
+        "name": "karan",
+        "phone": "23145",
+        "Address": "bvncjdi"
+    },
+    {
+        "id": "4",
+        "name": "Akash",
+        "phone": "79802",
+        "Address": "klnioz"
+
+    },
+    {
+
+        "id": "5",
+        "name": "Joban",
+        "phone": "5526",
+        "Address": "kldhjj"
+    },
+    {
+        "id": "6",
+        "name": "Shikha",
+        "phone": "89565",
+        "Address": "makkajsi"
+    }
+]
